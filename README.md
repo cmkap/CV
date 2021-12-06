@@ -13,62 +13,6 @@ Seeking a long-term career in software development where I can use my current sk
 | **Business websites **       | A webapp for cust | HTML, CSS and JS           |
 | **Deployed NFT Storefront ** | A webapp for NFTs | JS, TypeScript, Rust, HTML |
 
-## Work Experience
-
-**Sainsburys, London** (06/17 to 09/21)  
-_Online Assistant_
-
-• Using initiative to manage customer order complaints through to successful resolution.
-
-• Escalating customer complaints to senior management as required.
-
-• Wrote accurate and professional complaint response letters.
-
-• Directly delivering customer orders within expected timelines.
-
-• Updating CRM systems with sensitive and confidential customer data
-
-• Identifying errors with billing information, liaised with customer to resolve discrepancies, and manually updated billing systems when required.
-
-• Reviewing order data to understand cause of operational problems, as well as conducting and recommending remedial action.
-
-• Troubleshooting data systems to identify gaps and conducting manual overrides to ensure data is accurately reflected.
-
-**Orridge, London** (01/17 to 05/17)  
-_Stock Controller_
-
-• Followed company procedures to ensure stocks were maintained as expected.
-
-• Utilised mathematical skills to count stock levels.
-
-• Travelled to various locations to carry out stock related tasks.
-
-• My role involved working as part of a team to monitor the stock levels for various businesses.
-
-• Worked unsociable hours to support the business through periods of high volume.
-
-• Regularly debriefed the relevant departments via e-mail regarding overnight shifts.
-
-**Marks and Spencer, London** (06/10 to 10/16)  
-_Operations/Customer Service Assistant_
-
-• Received and organised stock within internal warehouse and store.
-
-• Updated data systems and relevant documentation to reflect accurate stock information.
-
-• Conducted daily checks on store operations and reported issues to relevant stakeholders
-
-to ensure store standards were maintained.
-
-• Managed cash, including opening and closing daily count, and ensured it was stored
-
-securely.
-
-• Opened and closed the store, as the designated key holder
-
-• Provided general customer assistance on the shop floor, including operating of store tills.
-
-• Acted as member of the emergency team by ensuring employees were aligned with
 
 emergency procedures and provided first aid support as required
 
