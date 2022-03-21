@@ -8,7 +8,7 @@ Seeking a long-term career in software development where I can use my current sk
 
 ## Projects
 
-| Name                              | Description       | Tech/tools                 |
+| Link                              | Description       | Tech/tools                 |
 | --------------------------------- | ----------------- | ---------------------------|
 | https://www.iclear4u.com/         | A webapp for cust | HTML, CSS and JS           |
 | https://github.com/cmkap/metaplex | A webapp for NFTs | JS, TypeScript, Rust, HTML |
