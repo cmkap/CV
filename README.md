@@ -55,7 +55,7 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 ### Problem Solving
 
-- My experience in the customer service, and my background in Maths and computing has led me to always have an inquisitive mind. It also gave me a lot fo opportunities to problem solve.
+- My experience in the customer service, and my background in Maths and Computing has led me to always have an inquisitive mind. It also gave me a lot fo opportunities to problem solve.
 - Makers Academy enhanced my thirst to problem solve as I soon came to a realisation that problem solving is the continuous theme when it comes anything technical. Test driven development is a concept that I've grown to lvoe and be very comfortable. To be able to build anything of note, problems and errors must be overcome and resolved. That way you know whatever you've built has survived the highs and lows. When it comes to coding in general I never tire of solving these problems and it is the main driver in me being so passionate about tech and wanting to increase my knowledge of software. 
 
 ### Team Player
