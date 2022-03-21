@@ -47,7 +47,7 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 | [**Busines website**](https://www.iclear4u.com/) | Business website  | HTML, CSS, JavaScript             |
 | [**NFT Storefront**](https://github.com/cmkap/metaplex) | NFT Storefront that allows for the bidding and purschasing of NFTs via the connection of a phantom wallet| Rust, Typescript, HTML, CSS, JavaScript|
 | [**Tech Test: Bank**](https://github.com/cmkap/bank-tech-test)| A tech test undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
-| [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets connect with other programmers and includes an integrated chat| MongoDB, Express, Node.ja, React, HTML, CSS, JavaScript|
+| [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.ja, React, HTML, CSS, JavaScript, Socket.io, Cypress|
 | [**Makers BnB**](https://github.com/cmkap/makers-bnb)| Air bnb inspired web application | Ruby, HTML, CSS, JavaScript, MySQL 
 
 
