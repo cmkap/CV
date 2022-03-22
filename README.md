@@ -69,9 +69,9 @@ Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Exp
 
 ## Work Experience
 
-**Sainsburys  (June 2017 to September 2021)
+**Sainsburys  (June 2017 to September 2021)**
 
-**Online Assistant
+**Online Assistant**
 - Using initiative to manage customer order complaints through to successful resolution
 - Escalating customer complaints to senior management as required.
 - Wrote accurate and professional complaint response letters.
