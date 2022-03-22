@@ -93,7 +93,8 @@ ere to client regulations and comments with constant communication, which made n
 - XP values
 - Object-Oriented Design/Programming
 - Enhanced independent learning and problem-solving 
-##Queen Mary University, London (09/09 to 09/12)
+
+## Queen Mary University, London (09/09 to 09/12)
 
 - Maths and Computing
 - Procedural Programming, Object Orientated Programming, Mathematical Computing, Java
