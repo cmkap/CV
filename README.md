@@ -87,7 +87,7 @@ ere to client regulations and comments with constant communication, which made n
 
 **Makers Academy (December 2021 to March 2022)**
 
-- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
+- Highly selective 16-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
 - Emphasis on Test Driven Development, pair programming and agile methodologies
 - Full stack web development
 - XP values
