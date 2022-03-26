@@ -104,10 +104,6 @@ ere to client regulations and comments with the constant communication, which ma
 - A level: Maths and Computing
 - Languages: Visual basic
 
-## Christs College Finchley, London (09/05 to 06/06)
-
-- GCSE: 6 A-C grades in subjects including Maths and English
-
 
 #### other qualifications
 
@@ -119,10 +115,3 @@ ere to client regulations and comments with the constant communication, which ma
 Computing:
 
 I am a hobbyist developer in my free time. I have built several websites for family and friends’ businesses. I have built a Metaplex NFT storefront. I am constantly looking into new technologies such as blockchain and I’m actively involved in the tech community groups on most platforms i.e. Twitter, Discord, Telegram.
-
-Hobbies:
-
-Basketball: Guard at National and Local league level. Played for Impact Basketball Academy, Las Vegas Nevada. Coached U13s at the Boys and Girls club, Las Vegas, Nevada.
-
-Volunteering Volunteer chaperone at the Great North Run.
-
