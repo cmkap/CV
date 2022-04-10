@@ -31,9 +31,7 @@
 
 A committed, hard-working tech enthusiast with an eagerness to learn new things, further enhanced by my education at the Makers Academy Bootcamp. Key concepts such as keeping to a strict Test-Driven Development and being able to follow an Agile workflow. A team player who is well versed in working on large projects and producing ideas for continuous improvement, as well as taking on personal responsibilities when it comes to learning new concepts.
 
-I had some exposure to coding when it came to my degree. I Studied Maths and Computing and I always knew it was a viable career path. Being able to design things like websites or apps with nothing more than a keyboard, mouse and imagination was a skill that I wanted to learn.
-
-The pandemic came around and I decided that I wanted to pick up coding again, and I enjoyed it at university and I started to create little side projects. I knew to get a real foothold into the tech industry and gain some real insight into how working in tech would look like A good option would be to join a coding Bootcamp. Makers Academy is highly selective of its Bootcamp students so it was an honour to be selected for the December 2021 cohort. I completed a Ruby course on Code Academy and got stuck into Codewars katas which I'm still doing regularly to keep myself sharp during my job search. It's also really helped when it came to making sure I had the fundamentals on point because syntax aside without knowing what the code in front of you is doing coding can get hard. Have a look below for what I've been getting up to during my 3 months at Makers.
+I had some exposure to coding when it came to my degree. I Studied Maths and Computing and I always knew it was a viable career path. The pandemic came around and I decided that I wanted to pick up coding again, and I enjoyed it at university and I started to create little side projects. I knew to get a real foothold into the tech industry and gain some real insight into how working in tech would look like A good option would be to join a software development Bootcamp. Makers Academy is highly selective of its Bootcamp students so it was an honour to be selected for the December 2021 cohort.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmkap&theme=radical)
@@ -55,8 +53,7 @@ The pandemic came around and I decided that I wanted to pick up coding again, an
 
 ### Problem Solving
 
-- My experience in customer service and my background in Maths and Computing has led me to always have an inquisitive mind. It also gave me a lot of opportunities to problem solve.
-- Makers Academy enhanced my thirst to problem solve as I soon realised that problem solving is the continuous theme when it comes to anything technical. Test-driven development is a concept that I've grown to love and be very comfortable with. To be able to build anything of note, problems and errors must be overcome and resolved. That way you know whatever you've built has survived the highs and lows. When it comes to coding in general I never tire of solving these problems and it is the main driver in me being so passionate about tech and wanting to increase my knowledge of the software. 
+- With a naturally inquisitive mine. Problem solving is a key skill I used at makers. Whilst on the final project the team was having issues when merging pull requests. After further investigation I was able to identify that the team was using a mix of yarn and npm. After highlighting the issue I suggested that to resolve the issue as a collective we should make amendments where there was no consistency and go forward using the same package manager. 
 
 ### Team Player
  - I am an adept team player who has worked in countless teams whether that be as part of a university, my previous roles and Makers Academy. Working as part of a team gives you that heightened sense of responsibility because if you don't get the work that you are meant to do, you're not only letting yourself down you're also letting your team down. Therefore as a good team player, I've always ensured that any work I've done has been finished on time and kept to the project schedule.
