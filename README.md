@@ -113,6 +113,7 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 - XP values
 - Object-Oriented Design/Programming
 - Enhanced independent learning and problem-solving 
+- EQ curriculum in feedback, empathy and team-work
 
 ## Queen Mary University, London (09/09 to 09/12)
 
