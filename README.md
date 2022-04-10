@@ -85,10 +85,10 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 **Orridge, London (January 2017 to May 2017)**			
 
 **Stock Controller** 
+-	My role involved working as part of a team to monitor the stock levels for various businesses. 
 -	Utilised mathematical skills to count stock levels. 
 -	Followed company procedures to ensure stocks were maintained as expected. 
 -	Travelled to various locations to carry out stock related tasks. 
--	My role involved working as part of a team to monitor the stock levels for various businesses. 
 -	Worked unsociable hours to support the business through periods of high volume. 
 -	Regularly debriefed the relevant departments via e-mail regarding overnight shifts. 
 
