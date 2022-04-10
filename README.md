@@ -105,7 +105,7 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 
 ## Education
 
-**Makers Academy (December 2021 to March 2022)**
+## Makers Academy (December 2021 to March 2022)
 
 - Highly selective 16-week software engineering Bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
 - Emphasis on Test Driven Development, pair programming and agile methodologies
