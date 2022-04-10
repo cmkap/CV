@@ -115,6 +115,10 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 - Enhanced independent learning and problem-solving 
 - EQ curriculum in feedback, empathy and team-work
 
+## Just IT Training Ltd (September 2021 to November 2021)
+
+- A twelve-week intensive bootcamp covering the fundamentals of Web and Software development.
+
 ## Queen Mary University, London (09/09 to 09/12)
 
 - Maths and Computing
