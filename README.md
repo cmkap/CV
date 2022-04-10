@@ -55,11 +55,15 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 
 - With a naturally inquisitive mine. Problem solving is a key skill I used at makers. Whilst on the final project the team was having issues when merging pull requests. After further investigation I was able to identify that the team was using a mix of yarn and npm. After highlighting the issue I suggested that to resolve the issue as a collective we should make amendments where there was no consistency and go forward using the same package manager. 
 
-### Team Player
- - I am an adept team player who has worked in countless teams whether that be as part of a university, my previous roles and Makers Academy. Working as part of a team gives you that heightened sense of responsibility because if you don't get the work that you are meant to do, you're not only letting yourself down you're also letting your team down. Therefore as a good team player, I've always ensured that any work I've done has been finished on time and kept to the project schedule.
- - This ability and awareness were very useful during the group projects while studying at Makers Academy. I worked on the backend and the frontend and was able to see how one relied on the other when it came to the functionality of the project. Therefore I was able to stick to our predetermined project schedule and even assist other team members to get their deliverables over the line to ensure we never missed our deadlines.
+### Leadership 
 
-Languages - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest), PostgreSQL, HTML, CSS, Bootstrap, Command-Line.
+- During my first project at Makers, I was introduced to the idea of using a different team lead every day for a group project by one of my cohort members. I embraced this opportunity to act as a Team Lead by making sure I was well prepared and fully aware of the project overview and objectives, as well as encouraged the use of agile methodologies. 
+- Going forward in my following projects with new teams, I recommended this approach and volunteered to lead first as everyone was understandably a bit apprehensive of taking charge as we are all peers. I also noted things I admired from my peer's leadership styles and tried to implement them into my strategy. 
+
+### Team Player
+ - I am an adept team player who has worked in countless teams whether that be as part of a university, my previous roles and Makers Academy. Therefore as a good team player, I've always ensured that any work I've done has been finished on time and kept to the project schedule. This was documented and evidenced at makers on my final project using Jira where I completed my team and individual tickets in the required time. 
+
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmkap)](https://github.com/cmkap/github-readme-stats)
 
