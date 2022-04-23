@@ -42,7 +42,7 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 | [**Business website**](https://www.iclear4u.com/) | Business website  | HTML, CSS, JavaScript             |
 | [**NFT Storefront**](https://github.com/cmkap/metaplex) | NFT Storefront that allows for the bidding and purchasing of NFTs via the connection of a phantom wallet| Rust, Typescript, HTML, CSS, JavaScript|
 | [**Tech Test: Bank**](https://github.com/cmkap/bank-tech-test)| A tech test is undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
-| [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.js, React, HTML, CSS, JavaScript, Socket.io, Cypress, Heroku|
+| [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.js, React, HTML, CSS, JavaScript, Socket.io, Cypress, Heroku, GitHub Actions|
 | [**Makers BnB**](https://github.com/cmkap/makers-bnb)| Air bnb inspired web application | Ruby, HTML, CSS, JavaScript, Rspec, Capybara, PostgreSQL, Sinatra
 | [**Chitter Challenge**](https://github.com/cmkap/chitter-challenge) | Twitter clone that allows the users to post messages to a public stream| Ruby, PostgreSQL, Rspec, Capybara|
 
