@@ -28,7 +28,7 @@
 
 A committed, hard-working tech enthusiast with an eagerness to learn new things, further enhanced by my education at the Makers Academy Bootcamp. Key concepts such as keeping to a strict Test-Driven Development and being able to follow an Agile workflow. A team player who is well versed in working on large projects and producing ideas for continuous improvement, as well as taking on personal responsibilities when it comes to learning new concepts.
 
-I had some exposure to coding when it came to my degree. I Studied Maths and Computing and I always knew it was a viable career path. The pandemic came around and I decided that I wanted to pick up coding again, and I enjoyed it at university and I started to create little side projects. I knew to get a real foothold into the tech industry and gain some real insight into how working in tech would look like A good option would be to join a software development Bootcamp. Makers Academy is highly selective of its Bootcamp students so it was an honour to be selected for the December 2021 cohort.
+I had some exposure to coding when it came to my degree. I Studied Maths and Computing and I always knew it was a viable career path. The pandemic came around and I decided that I wanted to pick up coding again, and I enjoyed it at university and I started to create little side projects. I knew to get a real foothold into the tech industry and gain some real insight into how working in tech would look like a good option would be to join a software development Bootcamp. Makers Academy is highly selective of its Bootcamp students so it was an honour to be selected for the December 2021 cohort.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmkap&theme=radical)
