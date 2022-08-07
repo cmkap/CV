@@ -39,7 +39,8 @@ I had some exposure to coding when it came to my degree. I Studied Maths and Com
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Acebook Chats**](https://github.com/hannahdesmond/acebook-CHATS)          |Social media app inspired by Facebook. Comments functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL, jQuery, Bootstrap, Rspec, Capybara |
-| [**Event Dashboard**](https://github.com/cmkap/dashboard) | Dashboard  | HTML, CSS, JavaScript, React, Syncfusion, Tailwind             |
+| [**Event Dashboard**](https://github.com/cmkap/dashboard) | Organisers can apply filters by clicking headings on the participants page. It is also possible for each organiser to see how much they have made in ticket sales in their dashboard.
+ | HTML, CSS, JavaScript, React, Syncfusion, Tailwind             |
 | [**NFT Storefront**](https://github.com/cmkap/metaplex) | NFT Storefront that allows for the bidding and purchasing of NFTs via the connection of a phantom wallet| Rust, Typescript, HTML, CSS, JavaScript|
 | [**Tech Test: Bank**](https://github.com/cmkap/bank-tech-test)| A tech test is undertaken to showcase clean code that logs deposits withdrawals from a bank account | JavaScript|
 | [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.js, React, HTML, CSS, JavaScript, Socket.io, Cypress, Heroku, GitHub Actions|
