@@ -69,11 +69,7 @@ I'm a committed tech enthusiast with a background in Maths and Computing. After 
 **Online Assistant**
 - Updating CRM systems with sensitive and confidential customer data
 - Identifying errors with billing information, liaising with customers to resolve discrepancies and manually updating billing systems when required. 
-- Troubleshooting data systems to identify gaps and conducting manual overrides to ensure data is accurately reflected.
-- Using initiative to manage customer order complaints through to successful resolution
-- Escalating customer complaints to senior management as required.
-- Wrote accurate and professional complaint response letters.
-- Directly delivering customer orders within expected timelines. 
+- Troubleshooting data systems to identify gaps and conducting manual overrides to ensure data is accurately 
 - Reviewing order data to understand the cause of operational problems, as well as conducting and recommending remedial action.
  
 **Orridge, London (January 2017 to May 2017)**			
@@ -81,21 +77,13 @@ I'm a committed tech enthusiast with a background in Maths and Computing. After 
 **Stock Controller** 
 -	My role involved working as part of a team to monitor the stock levels for various businesses. 
 -	Utilised mathematical skills to count stock levels. 
--	Followed company procedures to ensure stocks were maintained as expected. 
--	Travelled to various locations to carry out stock related tasks. 
--	Worked unsociable hours to support the business through periods of high volume. 
 -	Regularly debriefed the relevant departments via e-mail regarding overnight shifts. 
 
 **Marks and Spencer, London (June 2010 to October 2016)** 
 
 **Operations/Customer Service Assistant** 
 -	Updated data systems and relevant documentation to reflect accurate stock information. 
--	Received and organised stock within internal warehouse and store. 
--	Conducted daily checks on store operations and reported issues to relevant stakeholders to ensure store standards were maintained.  
--	Managed cash, including opening and closing daily count, and ensured it was stored securely.  
--	Opened and closed the store, as the designated key holder 
--	Provided general customer assistance on the shop floor, including operating of store tills. 
--	Acted as member of the emergency team by ensuring employees were aligned with emergency procedures and provided first aid support as required. 
+-	Received and organised stock within internal warehouse and 
 
 ## Education
 
