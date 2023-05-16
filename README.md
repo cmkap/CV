@@ -36,7 +36,7 @@ I'm a committed tech enthusiast with a background in Maths and Computing. After 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Book App**](https://github.com/cmkap/bank-tech-test)| This is a MERN stack book application that allows users to browse, search, add, update, and delete books. | MongoDB, Express.js, React, Node.js, and Bootstrap .|
+| [**Book App**](https://github.com/cmkap/book-app)| This is a MERN stack book application that allows users to browse, search, add, update, and delete books. | MongoDB, Express.js, React, Node.js, and Bootstrap .|
 | [**Acebook Chats**](https://github.com/hannahdesmond/acebook-CHATS)          |Social media app inspired by Facebook. Comments functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL, jQuery, Bootstrap, Rspec, Capybara |
 | [**Event Dashboard**](https://github.com/cmkap/dashboard) | Organisers can apply filters by clicking headings on the participants page. It is also possible for each organiser to see how much they have made in ticket sales in their dashboard.| HTML, CSS, JavaScript, React, Syncfusion, Tailwind             |
 | [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.js, React, HTML, CSS, JavaScript, Socket.io, Cypress, Heroku, GitHub Actions|
