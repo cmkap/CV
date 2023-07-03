@@ -36,6 +36,7 @@ I'm a committed tech enthusiast with a background in Maths and Computing. After 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Game Hub**](https://github.com/cmkap/game-hub)| Game Hub is a responsive web application designed to help you filter and search for games | Vite, Chakra UI, React, Axios, TypeScript and Framer Motion .|
 | [**Book App**](https://github.com/cmkap/book-app)| This is a MERN stack book application that allows users to browse, search, add, update, and delete books. | MongoDB, Express.js, React, Node.js, and Bootstrap .|
 | [**Acebook Chats**](https://github.com/hannahdesmond/acebook-CHATS)          |Social media app inspired by Facebook. Comments functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL, jQuery, Bootstrap, Rspec, Capybara |
 | [**Event Dashboard**](https://github.com/cmkap/dashboard) | Organisers can apply filters by clicking headings on the participants page. It is also possible for each organiser to see how much they have made in ticket sales in their dashboard.| HTML, CSS, JavaScript, React, Syncfusion, Tailwind             |
