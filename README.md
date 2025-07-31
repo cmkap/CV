@@ -36,12 +36,13 @@ I'm a committed tech enthusiast with a background in Maths and Computing. After 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Game Hub**](https://github.com/cmkap/game-hub)| Game Hub is a responsive web application designed to help you filter and search for games | Vite, Chakra UI, React, Axios, TypeScript and Framer Motion .|
+| [**Game Hub**](https://github.com/cmkap/game-hub)| Game Hub is a responsive web application designed to help you filter and search for games | Vite, Chakra UI, React, Axios, TypeScript and Framer Motion. [**Link**](https://game-hub-cmkap.vercel.app/)|
+| [**TeamFlow Lite**](https://github.com/cmkap/teamflow-lite)| TeamFlow Lite is a lightweight full-stack demo app built with Next.js and TypeScript that simulates analysing team communication patterns to generate real-time insights and nudges.  | Next.js, Sentiment, Zod, Tailwind, React, Recharts, TypeScript and Vitest.  [**Link**](https://teamflow-lite.vercel.app/)|
 | [**Book App**](https://github.com/cmkap/book-app)| This is a MERN stack book application that allows users to browse, search, add, update, and delete books. | MongoDB, Express.js, React, Node.js, and Bootstrap .|
 | [**Acebook Chats**](https://github.com/hannahdesmond/acebook-CHATS)          |Social media app inspired by Facebook. Comments functionality along with personal user 'wall' (profile).. | Ruby on Rails, PostgreSQL, jQuery, Bootstrap, Rspec, Capybara |
 | [**Event Dashboard**](https://github.com/cmkap/dashboard) | Organisers can apply filters by clicking headings on the participants page. It is also possible for each organiser to see how much they have made in ticket sales in their dashboard.| HTML, CSS, JavaScript, React, Syncfusion, Tailwind             |
 | [**Pair Programming App**](https://github.com/hannahdesmond/pair-pro)| An app that lets programmers connect with other programmers and includes an integrated chat feature | MongoDB, Express, Node.js, React, HTML, CSS, JavaScript, Socket.io, Cypress, Heroku, GitHub Actions|
-| [**Makers BnB**](https://github.com/cmkap/makers-bnb)| Air bnb inspired web application | Ruby, HTML, CSS, JavaScript, Rspec, Capybara, PostgreSQL, Sinatra
+| [**Makers BnB**](https://github.com/cmkap/makers-bnb)| Airbnb-inspired web application | Ruby, HTML, CSS, JavaScript, Rspec, Capybara, PostgreSQL, Sinatra
 | [**Chitter Challenge**](https://github.com/cmkap/chitter-challenge) | Twitter clone that allows the users to post messages to a public stream| 	Ruby, HTML, CSS, JavaScript, Rspec, Capybara, PostgreSQL, Sinatra|
 
 ## Skills
