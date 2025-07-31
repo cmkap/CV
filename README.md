@@ -7,6 +7,10 @@
     <a href="https://www.codewars.com/users/MrKay">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
+    <a href="https://leetcode.com/cmkap/">
+      <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+
   </div>
   <br>
 
